@@ -3,7 +3,7 @@
 ##  I'm IVAN 
 ## Front end Developer 💻
 
-[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ivan-nikolic-750881186/)
+[![](https://img.shields.io/badge/LinkedIn-blue)]My-linkedin(https://www.linkedin.com/in/ivan-nikolic-750881186/)
 [![](https://img.shields.io/badge/Gmail-ivan.nikolicamp%40gmail.com-yellow)](mailto:ivan.nikolicamp@gmail.com)
 
 
