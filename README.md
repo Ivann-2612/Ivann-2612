@@ -1,8 +1,6 @@
-<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220"></p>
-
-
 <p align="center">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  filter:"drop-shadow(1px 1px white)" width="220">
+<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220"></p>
 </p>
 
 ## Hi, I'm Ivan Nikolic
