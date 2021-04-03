@@ -16,8 +16,8 @@ const ivan = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev"],
     technologies:{
-        Front-end: ["Javascript","React"],
-        version-control-system : ["GIT"],
+        Frontend: ["Javascript","React"],
+        version control system : ["GIT"],
         database: ["Mongo - basic"],
         css framework: ["Sass","Bootstrap","Tailwind","Material UI"],
         misc: ["Firebase", "Netlify"],
