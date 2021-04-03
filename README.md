@@ -2,8 +2,10 @@
 <div width="49%">
     
 #  Hi, I'm Ivan Nikolic <br/>
-## Front end Developer 💻 junior ```diff + (Open-to-work) ``` 
-
+## Front end Developer 💻 junior 
+```diff 
+ (Open-to-work)
+``` 
 <br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
     
