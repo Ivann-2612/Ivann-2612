@@ -30,7 +30,7 @@ const ivan = {
 ⭐️ From Ivann-2612(https://github.com/Ivann-2612)
 </div>
 <div width="50%">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350">
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" width="350">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" height="250">
+<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="250" width="350">
 </div>
 </section>
