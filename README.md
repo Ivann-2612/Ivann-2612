@@ -1,8 +1,4 @@
 <section  display="flex">
-<div width="50%">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220">
-</div>
 <div width="49%">
 ## Hi, I'm Ivan Nikolic
 ## Front end Developer 💻 junior (Open-to-work)
@@ -31,5 +27,9 @@ const ivan = {
 
 ---
 ⭐️ From Ivann-2612(https://github.com/Ivann-2612)
+</div>
+<div width="50%">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220">
 </div>
 </section>
