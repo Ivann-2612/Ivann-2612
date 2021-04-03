@@ -2,7 +2,10 @@
 <div width="49%">
     
 #  Hi, I'm Ivan Nikolic <br/>
-## Front end Developer 💻 junior <p color="red">(Open-to-work)</p><br/>
+## Front end Developer 💻 junior ```diff
++ (Open-to-work)
+- this text is highlighted in red
+```  <br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
     
 
