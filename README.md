@@ -1,5 +1,5 @@
-<div display="flex">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  filter:"drop-shadow(1px 1px white)" width="220">
+<div display="flex" align="right">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220">
 </div>
 
