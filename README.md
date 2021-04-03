@@ -5,8 +5,8 @@
 ## Front end Developer 💻 junior 
 ```diff
 + (Open-to-work)
-- this text is highlighted in red
-```  <br/>
+``` 
+<br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
     
 
