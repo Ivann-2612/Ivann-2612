@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-##  I'm IVAN 
+##  I'm Ivan Nikolic
 ## Front end Developer 💻
 
 [![](https://img.shields.io/badge/LinkedIn-ivan-blue)](https://www.linkedin.com/in/ivan-nikolic-750881186/)
