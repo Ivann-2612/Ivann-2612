@@ -1,6 +1,6 @@
 
-<p align="center" background-color:"red">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="center">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  background-color:"red" width="230">
 </p>
 
 ##  I'm Ivan Nikolic
