@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  filter:"drop-shadow(1px 1px white)" width="220">
 </p>
 
-##  I'm Ivan Nikolic
+## Hi, I'm Ivan Nikolic
 ## Front end Developer 💻 junior (Open-to-work)
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
