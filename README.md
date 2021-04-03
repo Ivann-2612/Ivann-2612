@@ -1,8 +1,9 @@
-<div display="flex" align="right">
+<section  display="flex">
+<div>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220">
 </div>
-
+<div>
 ## Hi, I'm Ivan Nikolic
 ## Front end Developer 💻 junior (Open-to-work)
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -30,3 +31,5 @@ const ivan = {
 
 ---
 ⭐️ From Ivann-2612(https://github.com/Ivann-2612)
+</div>
+</section>
