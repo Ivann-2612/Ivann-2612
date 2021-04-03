@@ -1,7 +1,8 @@
 <section  display="flex">
 <div width="49%">
-    
-#  Hi, I'm Ivan Nikolic <br/>
+```diff     
+ - #  Hi, I'm Ivan Nikolic <br/>
+``` 
 ## Front end Developer 💻 junior 
 ```diff 
 + (Open-to-work)
