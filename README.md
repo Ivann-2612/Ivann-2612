@@ -4,7 +4,7 @@
 #  Hi, I'm Ivan Nikolic <br/>
 ## Front end Developer 💻 junior 
 ```diff 
- (Open-to-work)
++ (Open-to-work)
 ``` 
 <br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
