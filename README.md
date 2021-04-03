@@ -7,7 +7,7 @@
 + (Open-to-work)
 ``` 
 <br/>
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/>
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/><hr/>
     
 
 [![](https://img.shields.io/badge/LinkedIn-ivan-blue)](https://www.linkedin.com/in/ivan-nikolic-750881186/)
