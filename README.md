@@ -1,12 +1,11 @@
 <section  display="flex">
 <div width="49%">
-## Hi, I'm Ivan Nikolic
+# Hi, I'm Ivan Nikolic <br/>
 ## Front end Developer 💻 junior (Open-to-work)<br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 [![](https://img.shields.io/badge/LinkedIn-ivan-blue)](https://www.linkedin.com/in/ivan-nikolic-750881186/)
 [![](https://img.shields.io/badge/Gmail-ivan.nikolicamp%40gmail.com-yellow)](mailto:ivan.nikolicamp@gmail.com)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
