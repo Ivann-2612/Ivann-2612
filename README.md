@@ -1,4 +1,4 @@
-<section  display="flex">
+<section  display="flex" justify-content="space-between">
 <div width="49%">
     
 #  Hi, I'm Ivan Nikolic <br/>
