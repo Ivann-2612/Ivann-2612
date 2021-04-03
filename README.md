@@ -16,11 +16,11 @@ const ivan = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev"],
     technologies:{
-        frontEnd: ["Javascript","React"],
-        version control system : ["GIT"]
+        Front-end: ["Javascript","React"],
+        version-control-system : ["GIT"],
         database: ["Mongo - basic"],
         css framework: ["Sass","Bootstrap","Tailwind","Material UI"],
-        misc: ["Firebase", "Netlify"]
+        misc: ["Firebase", "Netlify"],
     },
     architecture: ["Single page applications"],
 }
