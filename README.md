@@ -1,9 +1,9 @@
 <section  display="flex">
-<div>
+<div width="50%">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="200" width="220">
 </div>
-<div>
+<div width="49%">
 ## Hi, I'm Ivan Nikolic
 ## Front end Developer 💻 junior (Open-to-work)
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
