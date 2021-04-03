@@ -1,7 +1,7 @@
 <section  display="flex">
 <div width="49%">
     
-# \textcolor{red}{red} Hi, I'm Ivan Nikolic <br/>
+#  Hi, I'm Ivan Nikolic <br/>
 ## Front end Developer 💻 junior 
     
 ```diff 
