@@ -2,7 +2,7 @@
 <div width="49%">
     
 #  Hi, I'm Ivan Nikolic <br/>
-## Front end Developer 💻 junior 
+## Junior Front end Developer / UI Designer 💻  
     
 ```diff 
 + (Open-to-work)
