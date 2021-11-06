@@ -4,9 +4,6 @@
 #  Hi, I'm Ivan Nikolic <br/>
 ## Junior Front end Developer / UI Designer 💻  
     
-```diff 
-+ (Open-to-work)
-``` 
 <br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/><hr/>
     
