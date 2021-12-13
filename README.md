@@ -24,6 +24,8 @@ const ivan = {
         database: ["Mongo - basic"],
         css framework: ["Sass","Bootstrap","Tailwind","Material UI"],
         misc: ["Firebase", "Netlify"],
+        CMS: ["Directus"],
+        Docker
     },
     architecture: ["Single page applications"],
 }
