@@ -23,7 +23,7 @@ const ivan = {
         version control system : ["GIT"],
         database: ["Mongo - basic"],
         css framework: ["Sass","Bootstrap","Tailwind","Material UI"],
-        misc: ["Firebase", "Netlify"],
+        misc: ["Firebase", "Netlify", "Vercel"],
         CMS: ["Directus"],
         Docker
     },
