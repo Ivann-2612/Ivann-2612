@@ -2,7 +2,7 @@
 <div width="49%">
     
 #  Hi, I'm Ivan Nikolic <br/>
-## Junior Front end Developer / UI Designer 💻  
+## Front end Developer / UI Designer 💻  
     
 <br/>
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br/><hr/>
