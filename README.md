@@ -15,7 +15,6 @@
 
 ```javascript
 const ivan = {
-    pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         Frontend: ["Javascript","React"],
