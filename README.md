@@ -17,13 +17,13 @@
 const ivan = {
     askMeAbout: ["app dev", "web dev"],
     technologies:{
-        Frontend: ["Javascript","React"],
+        Frontend: ["Javascript","React","NextJS"],
         UI design: ["Figma","Adobe XD"],
         version control system : ["GIT"],
         database: ["Mongo - basic"],
         css framework: ["Sass","Bootstrap","Tailwind","Material UI"],
         misc: ["Firebase", "Netlify", "Vercel"],
-        CMS: ["Directus"],
+        CMS: ["Directus","Strapi"],
         Docker
     },
     architecture: ["Single page applications"],
